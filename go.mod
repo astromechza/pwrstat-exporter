@@ -1,6 +1,6 @@
 module github.com/kerwenwwer/pwrstat-exporter
 
-go 1.21.4
+go 1.27.3
 
 require (
 	github.com/prometheus/client_golang v1.11.0
